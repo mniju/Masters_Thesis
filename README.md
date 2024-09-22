@@ -16,3 +16,14 @@ consumption in the data center.
 Language:Java
 
 RL Algorithms: Q learning and SARSA
+
+### Source Code
+The code is uploaded as a Zip file 'cloudsim-3.0.3.zip'.Its based on the [cloudsim toolkit Tag 3.0.3](https://github.com/Cloudslab/cloudsim/releases/tag/cloudsim-3.0.3) from CLOUDS Labortaory in Melbourne.Few of the files are updated to implement Reinforcement Learning.
+
+### Logs
+The experimental Logs are updated in [Logs](/Logs) .
+The text logs from the Lrmmt and Lr-RL experimental runs are logged and converted to csvs and saved in this folder.
+
+### Notebooks
+The [Analysis_Notebooks](/Analysis_Notebooks) has all the files used to analyze the experiments and create statistial Reports using the experimental Logs.
+
